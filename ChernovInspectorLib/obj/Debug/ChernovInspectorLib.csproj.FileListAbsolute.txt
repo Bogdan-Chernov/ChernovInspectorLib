@@ -1,0 +1,10 @@
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\bin\Debug\ChernovInspectorLib.exe.config
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\bin\Debug\ChernovInspectorLib.exe
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\bin\Debug\ChernovInspectorLib.pdb
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\bin\Debug\InspectorLib.dll
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\bin\Debug\InspectorLib.pdb
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\obj\Debug\ChernovInspectorLib.csprojAssemblyReference.cache
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\obj\Debug\ChernovInspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\obj\Debug\ChernovInspectorLib.csproj.CopyComplete
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\obj\Debug\ChernovInspectorLib.exe
+C:\Users\solov\Desktop\Итоговое задание\ChernovInspectorLib\ChernovInspectorLib\obj\Debug\ChernovInspectorLib.pdb
